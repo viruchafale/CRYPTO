@@ -98,3 +98,14 @@ nav .btn{
     padding: 20px 30px;
     border-radius: 8px;
 }
+
+.coin img{
+    width: 40px;
+    margin-right: 10px;
+
+}
+
+.coin h3{
+    color: white;
+    margin-bottom: 5px;
+}
